@@ -13,3 +13,91 @@
     src: url(../font/Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf);
 }
 
+
+/* .qq {
+    >.divani {
+        animation: anime1 10s linear infinite forwards;
+    }
+
+    >.divani2 {
+        animation: anime2 10s linear infinite forwards;
+
+    }
+
+    >.divani3 {
+        animation: anime3 10s linear infinite forwards;
+
+    }
+}
+
+@keyframes anime1 {
+
+
+    25% {
+        left: 0;
+    }
+
+    30% {
+        left: 100%;
+    }
+
+    30.0000001% {
+        left: -100%;
+    }
+
+    95% {
+        left: -100%;
+    }
+
+    99% {
+        left: 0;
+    }
+
+    100% {
+        left: 0;
+    }
+}
+
+@keyframes anime2 {
+    25% {
+        left: -100%;
+    }
+
+    30% {
+        left: 0;
+    }
+
+    55% {
+        left: 0;
+    }
+
+    60% {
+        left: 100%;
+    }
+
+    60.0001% {
+        left: -100%;
+    }
+}
+
+@keyframes anime3 {
+    55% {
+        left: -100%;
+    }
+
+    60% {
+        left: 0;
+    }
+
+    95% {
+        left: 0;
+    }
+
+    99% {
+        left: 100%;
+    }
+
+    99.0001% {
+        left: -100%;
+    }
+} */
